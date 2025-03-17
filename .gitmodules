@@ -1,0 +1,3 @@
+[submodule "hometown-homepage"]
+	path = hometown-homepage
+	url = https://github.com/logan-tolbert/scrimba-portfolio.git
